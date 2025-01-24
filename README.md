@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Geeth Senevirathne <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/geethsenevirathne/">
+  <a href="https://www.linkedin.com/in/geethseneviratne/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
     </a><span>&nbsp;</span>
-  <a href="https://twitter.com/geeth">
+  <a href="https://twitter.com/">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="https://www.instagram.com/geeth/">
+  <a href="https://www.instagram.com/_g_e_e_t_h__/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="mailto:geethh@gmail.com">
+  <a href="geethsene2001@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
   <a href="https://github.com/geethsenavirathne">
