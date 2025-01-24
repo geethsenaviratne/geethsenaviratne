@@ -16,6 +16,9 @@
   <a href="https://github.com/geethsenavirathne">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
+  <a href="https://www.facebook.com/share/1YfSjfV2Tu/">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
 </p>
 <h3 align="center">A Second Year Computer Science Undergraduate at SLIIT who is currently learning DJANGO Web Development</h3>
 
