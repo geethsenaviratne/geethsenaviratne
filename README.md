@@ -32,11 +32,12 @@
 <h2>⭐ | Github Stats </h2>
 
 <div align="center">
-<a href="https://github.com/geethsenevirathne">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geethseneviratne&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geethseneviratne&layout=compact&langs_count=7&theme=default"/></a>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=it23226128&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
-  <img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=geethsenaviratne&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geethsenaviratne&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Top Languages" height="230px"/>
+</p>
 </div>
 
 
@@ -54,7 +55,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,dynamodb,express,figma,firebase,github,html,java,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,&perline=14" />
   </a>
 </p>
 <br>
