@@ -17,7 +17,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/facebook.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-<h3 align="center">A Year Computer Science Undergraduate at SLIIT who is currently learning DJANGO Web Development</h3>
+<h3 align="center">A Third Year Computer Science Undergraduate at SLIIT who is currently learning DJANGO Web Development</h3>
 
 <br>
 <h2>📖 | About me</h2> 
