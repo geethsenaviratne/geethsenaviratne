@@ -21,7 +21,7 @@
 
 <br>
 <h2>📖 | About me</h2> 
-🌐 I am a Computer Science undergraduate with a strong passion for software development and problem-solving. My academic experience has provided me with solid programming skills in C, Python, and Java, alongside a deep understanding of web development and database management. I thrive on tackling complex challenges and have a keen interest in algorithm design. My goal is to apply my technical knowledge and analytical abilities to develop innovative solutions and contribute to impactful projects. I am eager to learn, grow, and connect with professionals in the tech industry to explore new opportunities.
+🌐 I am a Computer Science undergraduate with a strong passion for software development and problem-solving. My academic experience has provided me with solid programming skills in C, Python, and Java, alongside a deep understanding of web development and database management, and hands-on experience with the MERN stack (MongoDB, Express.js, React, Node.js). I thrive on tackling complex challenges and have a keen interest in algorithm design. My goal is to apply my technical knowledge and analytical abilities to develop innovative solutions and contribute to impactful projects. I am eager to learn, grow, and connect with professionals in the tech industry to explore new opportunities.
 
 
 <br>
